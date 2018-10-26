@@ -1,0 +1,30 @@
+---
+title: "Protocol"
+author: "Rick O. Gilmore"
+date: "`r Sys.time()`"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Purpose
+
+1. To add annotations to shared Databrary videos.
+2. To make it easier for users to find videos they want to reuse.
+3. To make the new (in planning) Databrary search engine more powerful.
+
+## Planning
+
+- What are highest priority annotations?
+    - Setting (home, lab, museum)
+    - Indoor/outdoor
+    - People
+        - infant, child, adolescent, adult
+    - Actions
+    - Objects
+- How to sample?
+    - Time sampling?
+        - Every X s: {10, 20, 30, 60}
+    - How to code?
