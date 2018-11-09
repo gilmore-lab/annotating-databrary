@@ -15,6 +15,12 @@ knitr::opts_chunk$set(echo = TRUE)
 2. To make it easier for users to find videos they want to reuse.
 3. To make the new (in planning) Databrary search engine more powerful.
 
+## Examples of Computer Vision models applied to videos
+
+- [YOLO](https://pjreddie.com/darknet/yolo/) object detection
+- [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) pose estimation algorithm
+- [Atomic Visual Actions](http://research.google.com/ava/)
+
 ## Planning
 
 - What are highest priority annotations?
